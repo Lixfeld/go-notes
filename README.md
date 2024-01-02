@@ -7,13 +7,3 @@ Notes for learning the go programming language
 - [Go by Example](https://gobyexample.com/)
 - [Standard library](https://pkg.go.dev/std)
 
-## Hello World
-```go
-package main
-
-import "fmt"
-
-func main() {
-    fmt.Println("Hello, World!")
-}
-```
