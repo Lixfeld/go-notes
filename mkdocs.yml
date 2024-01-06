@@ -1,0 +1,19 @@
+site_name: Go Notes
+theme:
+  name: material
+  features:
+    - content.code.copy
+
+  palette:
+    - scheme: default
+      primary: light blue
+
+# syntax highlighting
+markdown_extensions:
+  - pymdownx.highlight:
+      anchor_linenums: true
+      line_spans: __span
+      pygments_lang_class: true
+  - pymdownx.inlinehilite
+  - pymdownx.snippets
+  - pymdownx.superfences
