@@ -5,7 +5,7 @@ theme:
     - content.code.copy
 
   palette:
-    - scheme: default
+    - scheme: slate
       primary: light blue
 
 # syntax highlighting

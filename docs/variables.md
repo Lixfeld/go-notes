@@ -1,4 +1,4 @@
-## Variables
+# Variables
 The variable's type can be inferred from the assigned value.
 
 Declaration: var name type = expression
