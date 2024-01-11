@@ -1,6 +1,14 @@
 site_name: Go Notes
+repo_url: https://github.com/Lixfeld/go-notes
+repo_name: GitHub Source
+
+extra_css:
+  - stylesheets/extra.css
+
 theme:
   name: material
+  icon:
+    logo: material/note
   features:
     - content.code.copy
 
