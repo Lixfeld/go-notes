@@ -25,3 +25,14 @@ markdown_extensions:
   - pymdownx.inlinehilite
   - pymdownx.snippets
   - pymdownx.superfences
+
+nav:
+  - index.md
+  - helloworld.md
+  - keywords.md
+  - visibility.md
+  - types.md
+  - variables.md
+  - conversions.md
+  - functions.md
+  - loops.md
