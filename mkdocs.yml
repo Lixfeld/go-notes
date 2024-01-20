@@ -32,6 +32,7 @@ nav:
   - keywords.md
   - visibility.md
   - types.md
+  - constants.md
   - variables.md
   - conversions.md
   - functions.md

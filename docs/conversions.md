@@ -11,7 +11,7 @@ var r []rune = []rune(s)
 var b []byte = []byte(s)
 ```
 
-## [Package strconv](https://pkg.go.dev/strconv)
+## Package [strconv](https://pkg.go.dev/strconv)
 Conversions to and from string representations of basic data types.  
 
 ```go
