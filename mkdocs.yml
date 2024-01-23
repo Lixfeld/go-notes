@@ -32,8 +32,9 @@ nav:
   - keywords.md
   - visibility.md
   - types.md
-  - constants.md
   - variables.md
+  - constants.md
   - conversions.md
   - functions.md
   - loops.md
+  - if_statements.md
