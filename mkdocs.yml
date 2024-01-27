@@ -38,3 +38,5 @@ nav:
   - functions.md
   - loops.md
   - if_statements.md
+  - arrays.md
+  - slices.md
