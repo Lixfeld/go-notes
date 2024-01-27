@@ -15,7 +15,7 @@ for {
     // infinite loop
 }
 
-for index, value := elements {
+for index, value := range elements {
     // foreach loop
 }
 ```
