@@ -40,5 +40,6 @@ nav:
   - if_statements.md
   - arrays.md
   - slices.md
+  - maps.md
   - Packages:
       - fmt: packages/fmt.md
