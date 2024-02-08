@@ -44,3 +44,4 @@ nav:
   - maps.md
   - Packages:
       - fmt: packages/fmt.md
+      - unicode: packages/unicode.md
