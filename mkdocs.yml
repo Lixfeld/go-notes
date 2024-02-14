@@ -42,6 +42,7 @@ nav:
   - arrays.md
   - slices.md
   - maps.md
+  - named_types.md
   - pointers.md
   - Packages:
       - fmt: packages/fmt.md
