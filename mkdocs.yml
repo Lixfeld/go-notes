@@ -44,6 +44,7 @@ nav:
   - maps.md
   - named_types.md
   - pointers.md
+  - structs.md
   - Packages:
       - fmt: packages/fmt.md
       - slices: packages/slices.md
