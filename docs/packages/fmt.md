@@ -12,13 +12,21 @@ Sprintf(format string, a ...any) string
 
 Common format verbs:
 ```
-%b	    integer (base 2)
+%b      integer (base 2)
+%c      character (Unicode code point)
 %d      integer (base 10)
 %o      integer (base 8)
 %q      quoted string "abc" or rune 'c'
 %s      string
-%T	    type of any value
+%T      type of any value
 %v      the value in a default format
 %+v     structs: adds field names
 %%      literal percent sign (no operand)
+```
+
+Decimal numbers:
+```
+%f      precision 6 (default)
+%.f     precision 0
+%.2f    precision 2
 ```
