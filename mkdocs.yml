@@ -49,4 +49,5 @@ nav:
   - Packages:
       - fmt: packages/fmt.md
       - slices: packages/slices.md
+      - strconv: packages/strconv.md
       - unicode: packages/unicode.md
