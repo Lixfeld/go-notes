@@ -50,4 +50,5 @@ nav:
       - fmt: packages/fmt.md
       - slices: packages/slices.md
       - strconv: packages/strconv.md
+      - strings: packages/strings.md
       - unicode: packages/unicode.md
