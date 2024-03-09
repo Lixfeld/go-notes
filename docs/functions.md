@@ -67,3 +67,6 @@ func sum(nums ...int) int {
 	return total
 }
 ```
+
+## Default
+Unlike many other languages Go does not support optional/default values.  
