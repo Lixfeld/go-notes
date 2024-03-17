@@ -11,3 +11,8 @@ func (r rectangle) Area() float64 {
 	return r.Width * r.Height
 }
 ```
+
+## Value and pointer receivers
+A value receiver `(t T)` uses a copy of the original value.  
+To modify the original value a pointer receiver  `(t *T)` is needed.  
+For consistency, all methods on a type should use the same receiver type, even if not needed.  
