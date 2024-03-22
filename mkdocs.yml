@@ -46,6 +46,7 @@ nav:
   - pointers.md
   - structs.md
   - methods.md
+  - interfaces.md
   - Packages:
       - fmt: packages/fmt.md
       - slices: packages/slices.md
