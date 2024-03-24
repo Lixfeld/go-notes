@@ -1,0 +1,4 @@
+/* Maximum space for text block: https://github.com/squidfunk/mkdocs-material/discussions/3692 */
+.md-grid {
+    max-width: 80%;
+}
