@@ -16,8 +16,11 @@ var value = m["key"]
 // Contains key
 v, ok := m["key"]
 
-// Delete
+// Delete key-value pair
 delete(m, "key")
+
+// Remove all key-value pairs
+clear(m)
 
 // Map Literal
 var table = map[int]string{
