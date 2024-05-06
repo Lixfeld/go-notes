@@ -18,6 +18,10 @@ for {
 for index, value := range elements {
     // foreach loop
 }
+
+for i := range integer {
+    // "repeat" loop
+}
 ```
 
 ## Examples
