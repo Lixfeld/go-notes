@@ -8,7 +8,7 @@ var s string
 var s string = ""
 ```
 
-Short declarations: name := expression  
+Short declaration: name := expression  
 Not for package-level variables, only inside a function!
 
 ```go

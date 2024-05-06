@@ -6,7 +6,7 @@ const greeting string = "Hello World"
 ```
 
 ## Untyped Constants
-Constants can be untyped which is useful for number.  
+Constants can be untyped which is useful for numbers.  
 The constant will be implicitly converted to the required type.  
 
 Examples from package [math](https://pkg.go.dev/math#pkg-constants):  
