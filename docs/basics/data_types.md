@@ -1,4 +1,4 @@
-# Basic data types
+# Data types
 ```go
 bool
 
@@ -20,5 +20,5 @@ complex64 complex128
 Variables declared without an initial value are set to their zero values:
 
 - `0` for numbers
-- `""` for strings
+- `""` for strings (can not be nil)
 - `false` for booleans

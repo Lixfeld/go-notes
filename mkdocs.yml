@@ -32,7 +32,7 @@ nav:
     - basics/helloworld.md
     - basics/keywords.md
     - basics/visibility.md
-    - basics/types.md
+    - basics/data_types.md
     - basics/variables.md
     - basics/constants.md
     - basics/conversions.md
