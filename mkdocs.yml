@@ -28,25 +28,27 @@ markdown_extensions:
 
 nav:
   - index.md
-  - helloworld.md
-  - keywords.md
-  - visibility.md
-  - types.md
-  - variables.md
-  - constants.md
-  - conversions.md
-  - functions.md
-  - loops.md
-  - if_statements.md
-  - switch.md
-  - arrays.md
-  - slices.md
-  - maps.md
-  - named_types.md
-  - pointers.md
-  - structs.md
-  - methods.md
-  - interfaces.md
+  - Basics:
+    - basics/helloworld.md
+    - basics/keywords.md
+    - basics/visibility.md
+    - basics/types.md
+    - basics/variables.md
+    - basics/constants.md
+    - basics/conversions.md
+    - basics/functions.md
+    - basics/loops.md
+    - basics/if_statements.md
+    - basics/switch.md
+    - basics/pointers.md
+  - Types:
+    - types/arrays.md
+    - types/slices.md
+    - types/maps.md
+    - types/named_types.md
+    - types/structs.md
+    - types/methods.md
+    - types/interfaces.md
   - Packages:
       - fmt: packages/fmt.md
       - slices: packages/slices.md
