@@ -53,6 +53,7 @@ nav:
       - builtin: packages/builtin.md
       - fmt: packages/fmt.md
       - slices: packages/slices.md
+      - sort: packages/sort.md
       - strconv: packages/strconv.md
       - strings: packages/strings.md
       - sync: packages/sync.md
