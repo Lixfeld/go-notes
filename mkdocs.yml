@@ -50,6 +50,7 @@ nav:
     - types/methods.md
     - types/interfaces.md
   - Packages:
+      - builtin: packages/builtin.md
       - fmt: packages/fmt.md
       - slices: packages/slices.md
       - strconv: packages/strconv.md
