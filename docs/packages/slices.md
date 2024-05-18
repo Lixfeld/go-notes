@@ -3,7 +3,7 @@
 Package slices defines various functions useful with slices of any type.  
 
 Useful Functions:  
-```
+```go
 Contains[S ~[]E, E comparable](s S, v E) bool
 Index[S ~[]E, E comparable](s S, v E) int
 
@@ -15,4 +15,8 @@ Max[S ~[]E, E cmp.Ordered](x S) E
 
 Reverse[S ~[]E, E any](s S)
 Sort[S ~[]E, E cmp.Ordered](x S)
+SortFunc[S ~[]E, E any](x S, cmp func(a, b E) int)
+
+// Go 1.22
+Concat[S ~[]E, E any](slices ...S) S
 ```
