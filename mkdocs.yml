@@ -32,6 +32,7 @@ nav:
     - basics/helloworld.md
     - basics/keywords.md
     - basics/visibility.md
+    - basics/project_layout.md
     - basics/data_types.md
     - basics/variables.md
     - basics/constants.md
